@@ -3,16 +3,13 @@
 A clean, responsive, and modern static website built for a fictional footwear store. Perfect as a starter template or portfolio project for showcasing stylish products online.
 
 ## Features
-- Fully responsive design
 - Product gallery and featured collections
-- Contact form (static)
 - Easy to customize
 - Fast-loading with optimized assets
 
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
 
 ## Getting Started
 ### 1. Clone the Repository
@@ -40,11 +37,8 @@ You can deploy this static site easily using:
 - [Netlify](https://www.netlify.com/)
 - [Vercel](https://vercel.com/)
 
-## License
-This project is licensed under the MIT License.
-
 ## Credits
-Design and development by [Your Name]. Icons and photos are used for demo purposes only.
+Design and development by Deepayan. Icons and photos are used for demo purposes only.
 
 ---
 
